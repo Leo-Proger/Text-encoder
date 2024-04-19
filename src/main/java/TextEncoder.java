@@ -1,5 +1,3 @@
-package io.Leo_Proger.TextEncoder;
-
 import java.util.Random;
 
 public class TextEncoder {

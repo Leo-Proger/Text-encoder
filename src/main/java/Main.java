@@ -1,5 +1,3 @@
-package io.Leo_Proger.TextEncoder;
-
 class Main {
     public static void main(String[] args) {
         String secretMessage = "It's a secret message";
